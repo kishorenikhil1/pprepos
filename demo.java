@@ -16,4 +16,13 @@ class Docker
                 s.o.p("Hello world");
         }
 }
+class Jenkins
+{
+        public Jenkins main(...)
+        {
+                s.o.p("Hello world");
+                s.o.p("Hello world");
+                s.o.p("Hello world");
+        }
+}
 
