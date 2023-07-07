@@ -7,3 +7,13 @@ class Ansible
 		s.o.p("Hello world");
 	}
 }
+class Docker
+{
+        public Docker main(...)
+        {
+                s.o.p("Hello world");
+                s.o.p("Hello world");
+                s.o.p("Hello world");
+        }
+}
+
